@@ -1,5 +1,11 @@
 @import "tailwindcss";
 
+@theme {
+  --color-bright-snow-50: #F9FAFB;
+  --color-white-900: #111827;
+  --color-raw-umber-500: #714C36;
+}
+
 :root {
   --background: #ffffff;
   --foreground: #171717;
