@@ -8,6 +8,66 @@
 @theme inline {
   --color-background: var(--background);
   --color-foreground: var(--foreground);
+  --color-white-50: oklch(96.26% 0.005 67.76);
+  --color-white-100: oklch(92.77% 0.011 71.89);
+  --color-white-200: oklch(85.22% 0.023 67.51);
+  --color-white-300: oklch(77.75% 0.035 68.71);
+  --color-white-400: oklch(69.96% 0.047 65.82);
+  --color-white-500: oklch(62.12% 0.059 67.27);
+  --color-white-600: oklch(52.94% 0.05 65.29);
+  --color-white-700: oklch(43.43% 0.04 67.89);
+  --color-white-800: oklch(33.15% 0.029 66.57);
+  --color-white-900: oklch(22.25% 0.016 71.16);
+  --color-white-950: oklch(18.53% 0.012 73.17);
+
+  --color-raw-umber-50: oklch(96.59% 0.022 63.21);
+  --color-raw-umber-100: oklch(93.47% 0.044 63.91);
+  --color-raw-umber-200: oklch(87.26% 0.088 62.92);
+  --color-raw-umber-300: oklch(81.33% 0.13 60.29);
+  --color-raw-umber-400: oklch(76.21% 0.166 56.56);
+  --color-raw-umber-500: oklch(71.87% 0.192 49.38);
+  --color-raw-umber-600: oklch(60.93% 0.161 49.96);
+  --color-raw-umber-700: oklch(49.47% 0.129 50.91);
+  --color-raw-umber-800: oklch(37.49% 0.094 53.74);
+  --color-raw-umber-900: oklch(24.27% 0.057 59.83);
+  --color-raw-umber-950: oklch(20.09% 0.045 64.46);
+
+  --color-bright-snow-50: oklch(96.41% 0.004 91.45);
+  --color-bright-snow-100: oklch(92.86% 0.009 84.57);
+  --color-bright-snow-200: oklch(85.54% 0.016 86.43);
+  --color-bright-snow-300: oklch(78.13% 0.025 85.8);
+  --color-bright-snow-400: oklch(70.29% 0.032 83.6);
+  --color-bright-snow-500: oklch(62.53% 0.042 83.71);
+  --color-bright-snow-600: oklch(53.21% 0.034 83.51);
+  --color-bright-snow-700: oklch(43.77% 0.029 85.74);
+  --color-bright-snow-800: oklch(33.45% 0.02 86.45);
+  --color-bright-snow-900: oklch(22.34% 0.012 84.55);
+  --color-bright-snow-950: oklch(18.76% 0.009 84.57);
+
+  --color-silver-50: oklch(96.24% 0.003 48.72);
+  --color-silver-100: oklch(92.37% 0.004 56.37);
+  --color-silver-200: oklch(84.78% 0.009 67.71);
+  --color-silver-300: oklch(76.82% 0.013 63.87);
+  --color-silver-400: oklch(68.65% 0.018 61.83);
+  --color-silver-500: oklch(60.47% 0.024 65.09);
+  --color-silver-600: oklch(51.43% 0.02 61.67);
+  --color-silver-700: oklch(42.22% 0.016 63.6);
+  --color-silver-800: oklch(32.46% 0.011 67.42);
+  --color-silver-900: oklch(21.61% 0.006 56.04);
+  --color-silver-950: oklch(18.38% 0.005 67.5);
+
+  --color-golden-apricot-50: oklch(96.9% 0.018 70.24);
+  --color-golden-apricot-100: oklch(93.94% 0.036 74.06);
+  --color-golden-apricot-200: oklch(87.9% 0.074 71.96);
+  --color-golden-apricot-300: oklch(82.22% 0.108 71.18);
+  --color-golden-apricot-400: oklch(76.76% 0.139 67.93);
+  --color-golden-apricot-500: oklch(71.8% 0.159 62.79);
+  --color-golden-apricot-600: oklch(60.92% 0.134 62.87);
+  --color-golden-apricot-700: oklch(49.6% 0.106 64.24);
+  --color-golden-apricot-800: oklch(37.52% 0.078 64.84);
+  --color-golden-apricot-900: oklch(24.46% 0.046 69.98);
+  --color-golden-apricot-950: oklch(19.99% 0.036 72.11);
+
   --font-sans: var(--font-geist-sans);
   --font-mono: var(--font-geist-mono);
 }
